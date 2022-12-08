@@ -1,0 +1,140 @@
+style.css
+*
+{
+    box-sizing: brder-box;
+    margin: 0%;
+}
+.header
+{
+    height: 80px;
+    width: 100%;
+    display: flex;
+}
+.logo
+{
+    height: 80px;
+    width: 10%;
+    /* background-color: aqua; */
+}
+.logo img
+{
+    height: 80px;
+    width: 100%;
+}
+.name
+{
+    height: 80px;
+    width: 90%;
+    /* background-color: black; */
+    text-align: center;
+    line-height: 80px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+.nav
+{
+    height: 40px;
+    width: 100%;
+    background-color: bisque    ;
+}
+ul
+{
+    height: 40px;
+    width: 90%;
+    display: flex;
+}
+li
+{
+    list-style: none;
+    padding: 10px 20px;
+}
+.content
+{
+    height: 500px;
+    /* background-color: aqua; */
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}
+.gallery
+{
+    height: 400px;
+    margin-top: 25px;
+    width: 100%;
+    display: flex;
+}
+.g1
+{
+    height: 400px;
+    width: 20%;
+    margin-left: 5%;
+}
+.g1 img
+{
+    height: 400px;
+    width: 100%;
+}
+.g2
+{
+    height: 400px;
+    width: 20%;
+    margin-left: 5%;
+}
+.g2 img
+{
+    height: 400px;
+    width: 100%;
+}
+.g3
+{
+    height: 400px;
+    width: 20%;
+    margin-left: 5%;
+}
+.g3 img
+{
+    height: 400px;
+    width: 100%;
+}
+.g4
+{
+    height: 400px;
+    width: 20%;
+    /* margin-left: 5%; */
+    margin-right: 5%;
+}
+.g4 img
+{
+    height: 400px;
+    width: 100%;
+}
+.footer
+{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    background-color: black;
+}
+.address
+{
+    height: 150px;
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: white;
+    box-shadow: white 15px 0px 15px;
+}
+.contact
+{
+    height: 150px;
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: white;
+    box-shadow: white 15px 0px 15px;    
+}
